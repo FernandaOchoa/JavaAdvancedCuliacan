@@ -1,0 +1,2 @@
+cursohilosculiacancanaco.Martes.Heredado
+cursohilosculiacancanaco.Martes.Herencia

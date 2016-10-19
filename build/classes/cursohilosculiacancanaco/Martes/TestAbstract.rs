@@ -1,0 +1,4 @@
+cursohilosculiacancanaco.Martes.TestAbstract
+cursohilosculiacancanaco.Martes.Circulos
+cursohilosculiacancanaco.Martes.RectanguloA
+cursohilosculiacancanaco.Martes.Sombra

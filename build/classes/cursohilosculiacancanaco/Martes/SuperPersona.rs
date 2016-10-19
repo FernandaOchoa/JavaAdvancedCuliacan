@@ -1,0 +1,2 @@
+cursohilosculiacancanaco.Martes.Estudiante
+cursohilosculiacancanaco.Martes.SuperPersona
